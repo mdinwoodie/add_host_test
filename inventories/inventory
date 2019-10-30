@@ -1,4 +1,5 @@
 [test-group]
+localhost
 10.42.0.27
 
 [test-group:vars]
