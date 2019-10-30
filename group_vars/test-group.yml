@@ -1,2 +1,2 @@
-[test-group:vars]
-test_var2='test2'
+---
+test_var2=: 'test2'
