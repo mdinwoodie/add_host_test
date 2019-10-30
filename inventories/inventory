@@ -2,4 +2,4 @@
 10.42.0.27
 
 [test-group:vars]
-test_var1: 'test value 1'
+test_var1: 'test1'
