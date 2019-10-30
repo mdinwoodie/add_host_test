@@ -14,4 +14,6 @@
 
   tasks:
     - debug:
-        msg: "{{ test_var }}"
+        msg: "{{ test_var1 }}"
+    - debug:
+        msg: "{{ test_var2 }}"
