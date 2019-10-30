@@ -1,0 +1,6 @@
+[test-group]
+10.42.0.27
+
+[test-group:vars]
+ansible_user=vagrant
+ansible_password=vagrant
