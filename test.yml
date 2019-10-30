@@ -6,7 +6,7 @@
     - name: Add Hosts to Group
       add_host:
         hostname: "10.42.0.27"
-        groups: test
+        groups: test-group
 
 - name: Print test_var
   hosts: 10.42.0.27
