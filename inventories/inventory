@@ -1,6 +1,6 @@
 [test-group]
 localhost
-10.42.0.27
+10.42.0.10
 
 [test-group:vars]
 test_var1='test1'
