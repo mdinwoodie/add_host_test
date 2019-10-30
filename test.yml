@@ -3,8 +3,6 @@
   gather_facts: no
 
   tasks:
-    - debug:
-        msg: "{{ test_var2 }}"
     - name: Add Hosts to Group
       add_host:
         hostname: "10.42.0.27"
