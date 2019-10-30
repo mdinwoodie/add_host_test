@@ -5,11 +5,11 @@
   tasks:
     - name: Add Hosts to Group
       add_host:
-        hostname: "10.42.0.27"
+        hostname: "10.42.0.10"
         groups: test-group
 
 - name: Print test_var
-  hosts: 10.42.0.27
+  hosts: 10.42.0.10
   gather_facts: no
 
   tasks:
